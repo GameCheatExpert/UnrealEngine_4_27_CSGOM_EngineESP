@@ -1,0 +1,2 @@
+/data/data/com.termux/files/usr/bin/llvm-ar qc libxnucxx.a CMakeFiles/xnucxx.dir/LiteMemOpt.cc.o CMakeFiles/xnucxx.dir/LiteObject.cc.o CMakeFiles/xnucxx.dir/LiteIterator.cc.o CMakeFiles/xnucxx.dir/LiteCollection.cc.o CMakeFiles/xnucxx.dir/LiteMutableBuffer.cc.o CMakeFiles/xnucxx.dir/LiteMutableArray.cc.o
+/data/data/com.termux/files/usr/bin/llvm-ranlib libxnucxx.a

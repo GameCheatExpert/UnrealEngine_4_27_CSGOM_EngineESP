@@ -1,0 +1,2 @@
+/data/data/com.termux/files/usr/bin/llvm-ar qc liblogging.a CMakeFiles/logging.dir/cxxlogging.cc.o CMakeFiles/logging.dir/logging.c.o
+/data/data/com.termux/files/usr/bin/llvm-ranlib liblogging.a

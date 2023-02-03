@@ -1,0 +1,2 @@
+/data/data/com.termux/files/usr/bin/llvm-ar qc libsymbol_resolver.a CMakeFiles/symbol_resolver.dir/elf/dobby_symbol_resolver.cc.o CMakeFiles/symbol_resolver.dir/__/__/source/UserMode/PlatformUtil/Linux/ProcessRuntimeUtility.cc.o
+/data/data/com.termux/files/usr/bin/llvm-ranlib libsymbol_resolver.a

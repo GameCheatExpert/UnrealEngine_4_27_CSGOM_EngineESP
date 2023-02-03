@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/g++  -fomit-frame-pointer -ffunction-sections -fdata-sections -fno-rtti -fvisibility=hidden -fvisibility-inlines-hidden  -O2 -g -DNDEBUG CMakeFiles/android_example.dir/main.cc.o CMakeFiles/android_example.dir/android_common_api.cc.o -o android_example  ../libdobby.a -llog 

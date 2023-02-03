@@ -1,0 +1,2 @@
+/data/data/com.termux/files/usr/bin/llvm-ar qc libmisc_helper.a CMakeFiles/misc_helper.dir/variable_cache.c.o CMakeFiles/misc_helper.dir/async_logger.cc.o CMakeFiles/misc_helper.dir/pthread_helper.cc.o
+/data/data/com.termux/files/usr/bin/llvm-ranlib libmisc_helper.a
