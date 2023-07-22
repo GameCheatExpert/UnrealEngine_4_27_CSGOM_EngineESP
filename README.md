@@ -2,7 +2,7 @@
 
 特别感谢: [Jiang-Night(江晚)](https://github.com/Jiang-Night)
 
-半年前写的代码， 将就看吧
+半年前写的代码， 将就看吧, 如果喜欢记得点个star, 谢谢
 
 游戏: CSGOM
 UE版本号: 4.27+(时间太长 忘记具体版本号)
